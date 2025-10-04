@@ -21,8 +21,8 @@
 
 ---
 
-<h2 align="center">🏅 Reconocimientos & Logros</h2>
-
+<h2 align="center">🏅 Certificados</h2>
+<!--
 <table align="center">
   <thead>
     <tr>
@@ -53,15 +53,25 @@
     </tr>
   </tbody>
 </table>
-
+-->
+<p align="center">
+  <img width="150px" src="Certificdos/Mostrar/Certificado_Iniciacion_al_desarrollo_con_IA.jpg" alt="Desarrollo_con_IA" /> 
+  <img width="150px" src="Certificdos/Mostrar/Certificacion-Final-HTML-ConquerBlocks.jpg" alt="HTML" /> 
+  <img width="150px" src="Certificdos/Mostrar/Certificacion-Teorica-Avanzada-CSS.jpg" alt="CSS" /> 
+  <img width="150px" src="Certificdos/Mostrar/Git-y-Github-ConquerBlocks.jpg" alt="Git_y_Github" />
+  <img width="150px" src="Certificdos/Mostrar/Python_Avanzado_POO.jpg" alt="Python_POO" />
+</p>
 
 ---
 
 ## 💻 Proyectos destacados
-
-[GitHub](https://github.com/AlanBIOR/ProyectoA) |
-[GitHub](https://github.com/AlanBIOR/ProyectoB) |
-[GitHub](https://github.com/AlanBIOR/ProyectoC) |
+<p align="center">
+  <img height="180px" src="Proyectos/Coworking_Space.jpg" alt="Coworking_Space"/> 
+  <img height="180px" src="Proyectos/Creative_Company.jpg" alt="Creative_Company"/> 
+  <img height="180px" src="Proyectos/Grocery_Store.jpg" alt="Grocery_Store"/> 
+  <img height="180px" src="Proyectos/Header_Business_Agency.jpg" alt="Header_Business_Agency"/> 
+  <img height="180px" src="Proyectos/NFT_Marketplace.jpg" alt="NFT_Marketplace"/> 
+</p>
 
 ---
 

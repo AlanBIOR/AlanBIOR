@@ -9,8 +9,8 @@
 
 
 ---
-
-## Sobre mí
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<p> Sobre mí </p>
 
 - **Actualmente estudio:** *Máster en Desarrollo Web Full Stack en ConquerBlocks*
 - **Me interesa aprender más sobre:** *Desarrollo con IA y Desarrollo Web*
@@ -66,11 +66,11 @@
 
 ## 💻 Proyectos destacados
 <p align="center">
-  <img height="180px" src="Proyectos/Coworking_Space.jpg" alt="Coworking_Space"/> 
-  <img height="180px" src="Proyectos/Creative_Company.jpg" alt="Creative_Company"/> 
-  <img height="180px" src="Proyectos/Grocery_Store.jpg" alt="Grocery_Store"/> 
-  <img height="180px" src="Proyectos/Header_Business_Agency.jpg" alt="Header_Business_Agency"/> 
-  <img height="180px" src="Proyectos/NFT_Marketplace.jpg" alt="NFT_Marketplace"/> 
+  <img height="140px" src="Proyectos/Coworking_Space.jpg" alt="Coworking_Space"/> 
+  <img height="140px" src="Proyectos/Creative_Company.jpg" alt="Creative_Company"/> 
+  <img height="140px" src="Proyectos/Grocery_Store.jpg" alt="Grocery_Store"/> 
+  <img height="140px" src="Proyectos/Header_Business_Agency.jpg" alt="Header_Business_Agency"/> 
+  <img height="140px" src="Proyectos/NFT_Marketplace.jpg" alt="NFT_Marketplace"/> 
 </p>
 
 ---
